@@ -1,0 +1,15 @@
+* {
+    border: 1px solid red;
+}
+
+body {
+    padding: 30px;
+    margin: 30px;
+    background-color: gray;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+h1 {
+    font-size: 40px;
+}
